@@ -28,6 +28,7 @@ The batters can run after the ball is hit. A run is scored each time they change
 **Cricket** is the world's second most popular spectator and second most viewed sport. It had orginated from the South-east England during 16th century. Cricket was introduced to North America via the English colonies in the 17th century, probably before it had even reached the north of England. In the 18th century it arrived in other parts of the globe. It was introduced to the West Indies by colonists and to India by East India Company mariners in the first half of the century. It arrived in Australia almost as soon as colonisation began in 1788. New Zealand and South Africa followed in the early years of the 19th century. It became an established sport in the country in the 18th century and developed globally in the 19th and 20th centuries. [link source](https://en.wikipedia.org/wiki/History_of_cricket)
 
 
-![Cricket_History](/assets/Image/History.png)
+![Cricket_History](/assets/Image/History.png "Image 1")
 
-the Match details are updated from the 
+
+![No of Games](/assets/Image/NoofMatches.png "Image 2")
