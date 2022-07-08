@@ -9,4 +9,4 @@ pdf_file: "/assets/PDFs/Naresh.pdf"
 ---
 
 My CV is uploaded here  
-![No of Matches](/_posts/Image/NoofMatches.png)
+![Cricket Image](assets/Image/Percentage.png)
