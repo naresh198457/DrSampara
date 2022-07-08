@@ -35,5 +35,6 @@ The game has evolved from timeless Test matches to 100 balls game and it has ove
 
 ![No of Games](Image/Percentage.png "Image 2")
 
-![Win percentage](assets/Image/Percentage.png "Image 3")
+![Win percentage](Image/Percentage.png "Image 3")
+
 
