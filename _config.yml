@@ -13,7 +13,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 url: https://naresh198457.github.io # the base hostname & protocol for your site
-baseurl: ''
+baseurl: /DrSampara/
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
