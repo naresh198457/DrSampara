@@ -29,11 +29,11 @@ The batters can run after the ball is hit. A run is scored each time they change
 
 The game has evolved from timeless Test matches to 100 balls game and it has over of 
 
-![Cricket_History](/_posts/Image/History.png "Image 1")
+![Cricket_History](Image/History.png "Image 1")
 
 
 
-![No of Games](/_posts/Image/NoofMatches.png "Image 2")
+![No of Games](NoofMatches.png "Image 2")
 
-![Win percentage](/Image/Percentage.png "Image 3")
+![Win percentage](Percentage.png "Image 3")
 
