@@ -5,7 +5,7 @@ layout: post
 categories:
 - github
 - website
-pdf_file: "Naresh.pdf"
+pdf_file: "/assets/PDFs/Naresh.pdf"
 ---
 
 My CV is uploaded here  
