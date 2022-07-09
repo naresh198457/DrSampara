@@ -11,8 +11,8 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
-url: https://github.com/naresh198457 # the base hostname & protocol for your site
-baseurl: /DrSampara/blog/
+url: https://github.com/naresh198457/DrSampara # the base hostname & protocol for your site
+baseurl: /blog/
 
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
