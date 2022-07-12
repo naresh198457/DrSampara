@@ -3,6 +3,14 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-** Projects
+## Projects
 
-*** Bubble dynamics 
+### Bubble dynamics
+
+### Snowflakes
+
+### Hydrodynamic Quantum Analogue
+
+### Liquid Optics
+
+### Microfluidics
