@@ -3,4 +3,6 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-![Cricket Image](assets/Image/Percentage.png)
+** Projects
+
+*** Bubble dynamics 
