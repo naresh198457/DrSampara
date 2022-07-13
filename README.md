@@ -1,16 +1,16 @@
 ---
-title: "About"
+title: "Project"
 permalink: "/about/"
 layout: page
 ---
-## Projects
+I have given the details of the projects which I involved in last 10 years from [Nottingham Trent University](https://www.ntu.ac.uk/), [University of Liege](https://www.uliege.be/cms/c_8750816/en/uliege) and [University of Nottingham](https://www.nottingham.ac.uk/physics/people/naresh.sampara).
 
-### Bubble dynamics
+## Bubble dynamics
 
-### Snowflakes
+## Snowflakes
 
-### Hydrodynamic Quantum Analogue
+## Hydrodynamic Quantum Analogue
 
-### Liquid Optics
+## Liquid Optics
 
-### Microfluidics
+## Microfluidics
